@@ -1,4 +1,4 @@
-# CyberLabs-Classificador_de_Digitos-
+# Classificador_de_Digitos-
 
 A base de imagens MNIST é composta por número de 0 a 9 escritos a mão (<http://yann.lecun.com/exdb/mnist/>). Dessa base podemos elaborar um classificador que seja capaz de analisar e classificar quais são os dígitos representados em cada uma delas. Nesse projeto foi elaborado uma rede neural - multilayer perceptron para distinguir os números 0 e 5 dessa base de imagens.
 
